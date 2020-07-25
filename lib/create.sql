@@ -1,3 +1,9 @@
 CREATE TABLE bears (
-  //columns here
+  id INT,
+  name TEXT,
+  age INT,
+  gender TEXT,
+  color TEXT,
+  temperament TEXT,
+  alive boolean
 );
